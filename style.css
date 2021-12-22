@@ -30,6 +30,7 @@ body{
     margin: 20px;
 }
 .container input{
+    display: block;
     font-size: 0.8em;
     color: #969696;
     background-color: #FBFBFB;
